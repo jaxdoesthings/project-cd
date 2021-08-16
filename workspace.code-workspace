@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\New function lab"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "web project"
+	}
+}
