@@ -1,0 +1,11 @@
+H2 {
+    width: 100px;
+    height: 10px;
+    background-color:orange;
+    animation-name: example;
+    animation-duration: 4s;
+  }
+  
+  @keyframes example {
+    0%   {background-color: orange;}
+  }
